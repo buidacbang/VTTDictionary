@@ -1,0 +1,48 @@
+2018-05-30 08:00:12 - info: Server is listening on port: 3000
+2018-05-30 08:00:12 - info: Successfully connected to the database
+2018-05-30 08:24:43 - info: Server is listening on port: 3000
+2018-05-30 08:24:43 - info: Successfully connected to the database
+2018-05-30 08:28:57 - info: Server is listening on port: 3000
+2018-05-30 08:28:57 - info: Successfully connected to the database
+2018-05-30 08:34:47 - info: Server is listening on port: 3000
+2018-05-30 08:34:48 - info: Successfully connected to the database
+2018-05-30 08:36:29 - info: Server is listening on port: 3000
+2018-05-30 08:36:29 - info: Successfully connected to the database
+2018-05-30 08:45:33 - info: Server is listening on port: 3000
+2018-05-30 08:45:35 - info: Successfully connected to the database
+2018-05-30 08:54:17 - info: Server is listening on port: 3000
+2018-05-30 08:54:17 - info: Successfully connected to the database
+2018-05-30 01:42:21 - info: Server is listening on port: 3000
+2018-05-30 01:42:21 - info: Successfully connected to the database
+2018-05-30 01:44:10 - info: Server is listening on port: 3000
+2018-05-30 01:44:10 - info: Successfully connected to the database
+2018-05-30 01:49:45 - info: Server is listening on port: 3000
+2018-05-30 01:49:45 - info: Successfully connected to the database
+2018-05-30 01:51:09 - error: Error at function: DictionaryController.findAll->findByCategory CateCache not found with key: 5b0df872ae769b3f70ae5043
+2018-05-30 01:52:16 - info: Server is listening on port: 3000
+2018-05-30 01:52:16 - info: Successfully connected to the database
+2018-05-30 01:53:15 - info: Server is listening on port: 3000
+2018-05-30 01:53:15 - info: Successfully connected to the database
+2018-05-30 01:53:25 - error: Error at function: DictionaryController.findAll-> executeQuery CastError: Cast to string failed for value "{ _id: 5b0df872ae769b3f70ae5043 }" at path "categoryid" for model "Dictionary"
+    at new CastError (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\error\cast.js:27:11)
+    at SchemaString.cast (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\schema\string.js:460:9)
+    at SchemaString.SchemaType.applySetters (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\schematype.js:724:12)
+    at SchemaString.SchemaType._castForQuery (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\schematype.js:1095:15)
+    at SchemaString.castForQuery (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\schema\string.js:515:15)
+    at D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\schematype.js:1034:18
+    at Array.map (<anonymous>)
+    at SchemaString.handleArray (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\schematype.js:1033:14)
+    at SchemaString.castForQuery (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\schema\string.js:508:20)
+    at SchemaString.SchemaType.castForQueryWrapper (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\schematype.js:1059:17)
+    at cast (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\cast.js:281:39)
+    at cast (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\cast.js:49:18)
+    at model.Query.Query.cast (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\query.js:3198:12)
+    at model.Query.Query._castConditions (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\query.js:1278:10)
+    at model.Query.Query._find (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\query.js:1293:8)
+    at model.Query.Query.find (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\query.js:1375:8)
+2018-05-30 01:53:43 - info: Server is listening on port: 3000
+2018-05-30 01:53:43 - info: Successfully connected to the database
+2018-05-30 02:09:27 - info: Server is listening on port: 3000
+2018-05-30 02:09:27 - info: Successfully connected to the database
+2018-05-30 03:51:33 - info: Server is listening on port: 3000
+2018-05-30 03:51:33 - info: Successfully connected to the database

@@ -1,0 +1,134 @@
+2018-05-18 01:41:35 - info: Server is listening on port 3000
+2018-05-18 01:41:35 - info: Successfully connected to the database
+2018-05-18 01:44:20 - error: Error at function: Category->findAll TypeError: Cannot read property 'text' of undefined
+    at data.map.category (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\app\controllers\category.controller.js:139:46)
+    at Array.map (<anonymous>)
+    at Category.find.then.data (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\app\controllers\category.controller.js:137:35)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+2018-05-18 01:44:24 - error: Error at function: Category->findAll TypeError: Cannot read property 'text' of undefined
+    at data.map.category (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\app\controllers\category.controller.js:139:46)
+    at Array.map (<anonymous>)
+    at Category.find.then.data (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\app\controllers\category.controller.js:137:35)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+2018-05-18 01:46:38 - error: Error at function: Category->findAll TypeError: Cannot read property 'text' of undefined
+    at data.map.category (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\app\controllers\category.controller.js:139:46)
+    at Array.map (<anonymous>)
+    at Category.find.then.data (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\app\controllers\category.controller.js:137:35)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+2018-05-18 01:50:42 - info: Server is listening on port 3000
+2018-05-18 01:50:42 - info: Successfully connected to the database
+2018-05-18 02:04:53 - error: Error at function: DictionaryController.create->getDescriptionAudio MissingSchemaError: Schema hasn't been registered for model "[object Object]".
+Use mongoose.model(name, schema)
+    at new MissingSchemaError (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\error\missingSchema.js:20:11)
+    at Mongoose.model (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\index.js:336:13)
+    at Transaction.insert (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose-transactions\dist\src\main.js:218:30)
+    at saveDictionary (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\app\controllers\dictionary.controller.js:252:21)
+    at getDescriptionAudio.then.urls (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\app\controllers\dictionary.controller.js:211:45)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+2018-05-18 02:07:32 - info: Server is listening on port 3000
+2018-05-18 02:07:32 - info: Successfully connected to the database
+2018-05-18 02:12:41 - info: Server is listening on port 3000
+2018-05-18 02:12:41 - info: Successfully connected to the database
+2018-05-18 02:14:56 - info: Server is listening on port 3000
+2018-05-18 02:14:56 - info: Successfully connected to the database
+2018-05-18 02:15:42 - info: Server is listening on port 3000
+2018-05-18 02:15:42 - info: Successfully connected to the database
+2018-05-18 02:25:22 - info: Server is listening on port 3000
+2018-05-18 02:25:22 - info: Successfully connected to the database
+2018-05-18 02:28:15 - info: Server is listening on port 3000
+2018-05-18 02:28:15 - info: Successfully connected to the database
+2018-05-18 03:04:12 - info: Server is listening on port 3000
+2018-05-18 03:04:13 - info: Successfully connected to the database
+2018-05-18 03:11:48 - info: Server is listening on port 3000
+2018-05-18 03:11:48 - info: Successfully connected to the database
+2018-05-18 04:09:20 - info: Server is listening on port 3000
+2018-05-18 04:09:20 - info: Successfully connected to the database
+2018-05-18 04:09:40 - error: Error occurs while rolling back the transaction:  TypeError: Cannot set property 'status' of undefined
+    at Transaction.updateOperationStatus (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose-transactions\dist\src\main.js:529:39)
+    at Transaction.<anonymous> (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose-transactions\dist\src\main.js:427:58)
+    at step (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose-transactions\dist\src\main.js:32:23)
+    at Object.next (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose-transactions\dist\src\main.js:13:53)
+    at D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose-transactions\dist\src\main.js:7:71
+    at new Promise (<anonymous>)
+    at __awaiter (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose-transactions\dist\src\main.js:3:12)
+    at D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose-transactions\dist\src\main.js:423:74
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+2018-05-18 04:11:37 - info: Server is listening on port 3000
+2018-05-18 04:11:37 - info: Successfully connected to the database
+2018-05-18 04:12:49 - error: Error occurs while rolling back the transaction:  MongoError: The dollar ($) prefixed field '$inc' in 'operations.1.data.$inc' is not valid for storage.
+    at D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongodb-core\lib\connection\pool.js:595:61
+    at authenticateStragglers (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongodb-core\lib\connection\pool.js:513:16)
+    at Connection.messageHandler (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongodb-core\lib\connection\pool.js:549:5)
+    at emitMessageHandler (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongodb-core\lib\connection\connection.js:309:10)
+    at Socket.<anonymous> (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongodb-core\lib\connection\connection.js:452:17)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at TCP.onread (net.js:607:20)
+2018-05-18 04:15:17 - info: Server is listening on port 3000
+2018-05-18 04:15:17 - info: Successfully connected to the database
+2018-05-18 04:16:47 - error: Error occurs while rolling back the transaction:  MongoError: The dollar ($) prefixed field '$inc' in 'operations.1.data.$inc' is not valid for storage.
+    at D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongodb-core\lib\connection\pool.js:595:61
+    at authenticateStragglers (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongodb-core\lib\connection\pool.js:513:16)
+    at Connection.messageHandler (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongodb-core\lib\connection\pool.js:549:5)
+    at emitMessageHandler (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongodb-core\lib\connection\connection.js:309:10)
+    at Socket.<anonymous> (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongodb-core\lib\connection\connection.js:452:17)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at TCP.onread (net.js:607:20)
+2018-05-18 04:24:37 - info: Server is listening on port 3000
+2018-05-18 04:24:37 - info: Successfully connected to the database
+2018-05-18 04:30:21 - info: Server is listening on port 3000
+2018-05-18 04:30:21 - info: Successfully connected to the database
+2018-05-18 04:32:09 - info: Server is listening on port 3000
+2018-05-18 04:32:09 - info: Successfully connected to the database
+2018-05-18 04:47:41 - info: Server is listening on port 3000
+2018-05-18 04:47:41 - info: Successfully connected to the database
+2018-05-18 05:24:43 - info: Server is listening on port 3000
+2018-05-18 05:24:43 - info: Successfully connected to the database
+2018-05-18 05:26:52 - info: Server is listening on port 3000
+2018-05-18 05:26:52 - info: Successfully connected to the database
+2018-05-18 05:27:04 - info: Server is listening on port 3000
+2018-05-18 05:27:04 - info: Successfully connected to the database
+2018-05-18 05:27:24 - info: Server is listening on port 3000
+2018-05-18 05:27:24 - info: Successfully connected to the database
+2018-05-18 05:28:02 - info: Server is listening on port 3000
+2018-05-18 05:28:02 - info: Successfully connected to the database
+2018-05-18 05:28:20 - info: Server is listening on port 3000
+2018-05-18 05:28:21 - info: Successfully connected to the database
+2018-05-18 05:28:44 - info: Server is listening on port 3000
+2018-05-18 05:28:44 - info: Successfully connected to the database
+2018-05-18 05:29:01 - info: Server is listening on port 3000
+2018-05-18 05:29:01 - info: Successfully connected to the database
+2018-05-18 05:29:22 - info: Server is listening on port 3000
+2018-05-18 05:29:22 - info: Successfully connected to the database
+2018-05-18 05:35:59 - info: Server is listening on port 3000
+2018-05-18 05:35:59 - info: Successfully connected to the database
+2018-05-18 05:36:23 - info: Server is listening on port 3000
+2018-05-18 05:36:23 - info: Successfully connected to the database
+2018-05-18 05:37:04 - info: Server is listening on port 3000
+2018-05-18 05:37:04 - info: Successfully connected to the database
+2018-05-18 05:37:38 - info: Server is listening on port 3000
+2018-05-18 05:37:38 - info: Successfully connected to the database
+2018-05-18 05:40:44 - info: Server is listening on port 3000
+2018-05-18 05:40:44 - info: Successfully connected to the database
+2018-05-18 05:45:59 - info: Server is listening on port 3000
+2018-05-18 05:45:59 - info: Successfully connected to the database
+2018-05-18 05:47:22 - info: Server is listening on port 3000
+2018-05-18 05:47:22 - info: Successfully connected to the database
+2018-05-18 05:48:26 - info: Server is listening on port 3000
+2018-05-18 05:48:26 - info: Successfully connected to the database
+2018-05-18 05:55:03 - info: Server is listening on port 3000
+2018-05-18 05:55:03 - info: Successfully connected to the database
+2018-05-18 05:55:44 - info: Server is listening on port 3000
+2018-05-18 05:55:44 - info: Successfully connected to the database

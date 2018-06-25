@@ -1,0 +1,36 @@
+{
+  "name": "node-easy-notes-app",
+  "version": "1.0.0",
+  "description": "Never miss a thing in Life. Take notes quickly. Organize and keep track of all your notes.",
+  "main": "vtglossary.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Express",
+    "RestAPI",
+    "MongoDB",
+    "Mongoose",
+    "Notes"
+  ],
+  "author": "callicoder",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.18.2",
+    "es6-promise": "^4.2.4",
+    "express": "^4.16.3",
+    "google-tts-api": "0.0.2",
+    "jsonwebtoken": "^8.2.2",
+    "moment": "^2.22.1",
+    "mongoose": "^5.0.11",
+    "mongoose-transactions": "^1.1.1",
+    "node-redis-pubsub": "^2.0.0",
+    "q": "^1.5.1",
+    "redis": "^2.8.0",
+    "request": "^2.85.0",
+    "unescape": "^1.0.1",
+    "winston": "^2.4.2",
+    "winston-daily-rotate-file": "^3.1.3"
+  }
+}

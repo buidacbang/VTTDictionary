@@ -1,0 +1,33 @@
+2018-05-05 10:22:47 - info: Server is listening on port 3000
+2018-05-05 10:22:47 - info: Successfully connected to the database
+2018-05-05 10:23:01 - info: Server is listening on port 3000
+2018-05-05 10:23:01 - info: Successfully connected to the database
+2018-05-05 10:25:43 - error: Error at function: CateCacheController.create->recursiveCreateCateCache->findParentCategory TypeError: catecache.findByIdAndUpdate is not a function
+    at CateCache.findOne.then.catecache (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\app\controllers\category.controller.js:53:27)
+    at <anonymous>
+2018-05-05 10:27:10 - info: Server is listening on port 3000
+2018-05-05 10:27:10 - info: Successfully connected to the database
+2018-05-05 10:35:35 - info: Server is listening on port 3000
+2018-05-05 10:35:35 - info: Successfully connected to the database
+2018-05-05 10:35:53 - info: Server is listening on port 3000
+2018-05-05 10:35:53 - info: Successfully connected to the database
+2018-05-05 11:14:42 - info: Server is listening on port 3000
+2018-05-05 11:14:42 - info: Successfully connected to the database
+2018-05-05 11:17:16 - info: Server is listening on port 3000
+2018-05-05 11:17:16 - info: Successfully connected to the database
+2018-05-05 11:26:30 - info: Server is listening on port 3000
+2018-05-05 11:26:30 - info: Successfully connected to the database
+2018-05-05 11:26:59 - info: Server is listening on port 3000
+2018-05-05 11:26:59 - info: Successfully connected to the database
+2018-05-05 11:30:29 - info: Server is listening on port 3000
+2018-05-05 11:30:29 - info: Successfully connected to the database
+2018-05-05 11:33:13 - info: Server is listening on port 3000
+2018-05-05 11:33:13 - info: Successfully connected to the database
+2018-05-05 11:08:41 - info: Server is listening on port 3000
+2018-05-05 11:08:41 - info: Successfully connected to the database
+2018-05-05 11:24:12 - info: Server is listening on port 3000
+2018-05-05 11:24:12 - info: Successfully connected to the database
+2018-05-05 11:24:32 - error: Error at function: CateCacheController.create->saveNewCateCache->getParentCategory Can not get parent Category with id: 5aedd7d28c7a552cec117d34
+2018-05-05 11:25:25 - error: Error at function: CateCacheController.create->saveNewCateCache->getParentCategory Can not get parent Category with id: 5aedd7d28c7a552cec117d34
+2018-05-05 11:26:39 - info: Server is listening on port 3000
+2018-05-05 11:26:39 - info: Successfully connected to the database

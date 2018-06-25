@@ -1,0 +1,9 @@
+D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\obj\Debug\VTDictionaryAPI.njsprojResolveAssemblyReference.cache
+D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\obj\Debug\VTDictionaryAPI.njsproj.CoreCompileInputs.cache
+D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\bin\Microsoft.NodejsTools.WebRole.dll
+D:\current work\pdt - vtt\Tu dien Tieng Anh chuyen nganh\vt dictionary\VTDictionaryAPI\VTDictionaryAPI\obj\Debug\VTDictionaryAPI.njsprojResolveAssemblyReference.cache
+D:\current work\pdt - vtt\Tu dien Tieng Anh chuyen nganh\vt dictionary\VTDictionaryAPI\VTDictionaryAPI\obj\Debug\VTDictionaryAPI.njsproj.CoreCompileInputs.cache
+D:\current work\pdt - vtt\Tu dien Tieng Anh chuyen nganh\vt dictionary\VTDictionaryAPI\VTDictionaryAPI\bin\Microsoft.NodejsTools.WebRole.dll
+D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\obj\Debug\VTDictionaryAPI.njsprojResolveAssemblyReference.cache
+D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\obj\Debug\VTDictionaryAPI.njsproj.CoreCompileInputs.cache
+D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\bin\Microsoft.NodejsTools.WebRole.dll

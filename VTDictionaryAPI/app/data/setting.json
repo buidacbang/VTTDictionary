@@ -1,0 +1,14 @@
+﻿{
+  "key": "ios_app_version",
+  "value": {
+    "os": "ios",
+    "force_clear_cache": "0",
+    "update": {
+      "version": "1.0",
+      "update_url": "https://study.storebox.vn/index.php/s/f7Y1vLtgzNKUf5m/download",
+      "is_forced_update": "1",
+      "remind_day": "1",
+      "uuids": [ "6&16EAD8DD&0&0000"]
+    }
+  }
+}

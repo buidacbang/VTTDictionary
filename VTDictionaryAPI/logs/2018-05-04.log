@@ -1,0 +1,67 @@
+2018-05-04 11:06:56 - info: Server is listening on port 3000
+2018-05-04 11:06:56 - info: Successfully connected to the database
+2018-05-04 11:08:40 - info: Server is listening on port 3000
+2018-05-04 11:08:40 - info: Successfully connected to the database
+2018-05-04 11:11:35 - info: Server is listening on port 3000
+2018-05-04 11:11:35 - info: Successfully connected to the database
+2018-05-04 01:37:57 - info: Successfully connected to the database
+2018-05-04 01:39:23 - info: Server is listening on port 3000
+2018-05-04 01:39:23 - info: Successfully connected to the database
+2018-05-04 01:40:03 - info: Server is listening on port 3000
+2018-05-04 01:40:04 - info: Successfully connected to the database
+2018-05-04 01:41:32 - info: Server is listening on port 3000
+2018-05-04 01:41:32 - info: Successfully connected to the database
+2018-05-04 01:45:02 - info: Server is listening on port 3000
+2018-05-04 01:45:02 - info: Successfully connected to the database
+2018-05-04 01:54:44 - info: Server is listening on port 3000
+2018-05-04 01:54:44 - info: Successfully connected to the database
+2018-05-04 01:55:54 - info: Server is listening on port 3000
+2018-05-04 01:55:54 - info: Successfully connected to the database
+2018-05-04 01:59:05 - info: Server is listening on port 3000
+2018-05-04 01:59:05 - info: Successfully connected to the database
+2018-05-04 02:00:22 - info: Server is listening on port 3000
+2018-05-04 02:00:22 - info: Successfully connected to the database
+2018-05-04 02:01:47 - info: Server is listening on port 3000
+2018-05-04 02:01:48 - info: Successfully connected to the database
+2018-05-04 02:01:57 - error: Error at function: Dictionary.findAll
+2018-05-04 02:02:55 - info: Server is listening on port 3000
+2018-05-04 02:02:55 - info: Successfully connected to the database
+2018-05-04 02:04:30 - info: Server is listening on port 3000
+2018-05-04 02:04:30 - info: Successfully connected to the database
+2018-05-04 02:06:05 - info: Server is listening on port 3000
+2018-05-04 02:06:05 - info: Successfully connected to the database
+2018-05-04 02:08:38 - info: Server is listening on port 3000
+2018-05-04 02:08:38 - info: Successfully connected to the database
+2018-05-04 02:09:29 - error: Error at function: Dictionary.findAll->findByKeyword
+2018-05-04 02:09:33 - error: Error at function: Dictionary.findAll->findByKeyword
+2018-05-04 02:09:47 - error: Error at function: Dictionary.findAll->findByKeyword
+2018-05-04 02:10:52 - info: Server is listening on port 3000
+2018-05-04 02:10:52 - info: Successfully connected to the database
+2018-05-04 02:12:43 - error: Error at function: Dictionary.findAll->findByKeywordAndCategory
+2018-05-04 02:12:53 - error: Error at function: Dictionary.findAll->findByKeywordAndCategory
+2018-05-04 02:16:28 - info: Server is listening on port 3000
+2018-05-04 02:16:28 - info: Successfully connected to the database
+2018-05-04 04:43:19 - info: Server is listening on port 3000
+2018-05-04 04:43:19 - info: Successfully connected to the database
+2018-05-04 04:56:02 - info: Server is listening on port 3000
+2018-05-04 04:56:02 - info: Successfully connected to the database
+2018-05-04 10:04:25 - info: Server is listening on port 3000
+2018-05-04 10:04:25 - info: Successfully connected to the database
+2018-05-04 10:04:56 - info: Server is listening on port 3000
+2018-05-04 10:04:57 - info: Successfully connected to the database
+2018-05-04 10:07:05 - info: Server is listening on port 3000
+2018-05-04 10:07:05 - info: Successfully connected to the database
+2018-05-04 11:02:51 - info: Server is listening on port 3000
+2018-05-04 11:02:51 - info: Successfully connected to the database
+2018-05-04 11:03:06 - info: Server is listening on port 3000
+2018-05-04 11:03:06 - info: Successfully connected to the database
+2018-05-04 11:04:35 - info: Server is listening on port 3000
+2018-05-04 11:04:35 - info: Successfully connected to the database
+2018-05-04 11:28:38 - info: Server is listening on port 3000
+2018-05-04 11:28:38 - info: Successfully connected to the database
+2018-05-04 11:46:26 - info: Server is listening on port 3000
+2018-05-04 11:46:26 - info: Successfully connected to the database
+2018-05-04 11:47:03 - info: Server is listening on port 3000
+2018-05-04 11:47:03 - info: Successfully connected to the database
+2018-05-04 11:48:33 - info: Server is listening on port 3000
+2018-05-04 11:48:33 - info: Successfully connected to the database

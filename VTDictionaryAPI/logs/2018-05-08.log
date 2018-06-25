@@ -1,0 +1,75 @@
+2018-05-08 12:06:20 - info: Server is listening on port 3000
+2018-05-08 12:06:20 - info: Successfully connected to the database
+2018-05-08 12:12:42 - info: Server is listening on port 3000
+2018-05-08 12:12:42 - info: Successfully connected to the database
+2018-05-08 12:15:07 - info: Server is listening on port 3000
+2018-05-08 12:15:07 - info: Successfully connected to the database
+2018-05-08 12:15:11 - error: Error at function: CourseController.findAll
+2018-05-08 12:15:28 - error: Error at function: CourseController.findAll
+2018-05-08 12:16:53 - error: Error at function: CourseController.findAll->findByKeyword
+2018-05-08 12:17:04 - error: Error at function: CourseController.findAll->findByKeywordAndCategory
+2018-05-08 12:18:26 - error: Error at function: CourseController.findAll->findByKeywordAndCategory
+2018-05-08 12:19:06 - error: Can not update Course with id undefined
+2018-05-08 12:21:02 - info: Server is listening on port 3000
+2018-05-08 12:21:02 - info: Successfully connected to the database
+2018-05-08 12:21:27 - error: Error at function: CourseController.findAll->findByKeywordAndCategory
+2018-05-08 12:32:28 - info: Server is listening on port 3000
+2018-05-08 12:32:28 - info: Successfully connected to the database
+2018-05-08 12:37:27 - info: Server is listening on port 3000
+2018-05-08 12:37:27 - info: Successfully connected to the database
+2018-05-08 12:38:45 - info: Server is listening on port 3000
+2018-05-08 12:38:45 - info: Successfully connected to the database
+2018-05-08 12:39:09 - error: Can not update Course with id 5af089e5390bb22bfc520079
+2018-05-08 09:31:32 - info: Server is listening on port 3000
+2018-05-08 09:31:32 - info: Successfully connected to the database
+2018-05-08 09:31:58 - info: Server is listening on port 3000
+2018-05-08 09:31:58 - info: Successfully connected to the database
+2018-05-08 09:34:21 - info: Server is listening on port 3000
+2018-05-08 09:34:21 - info: Successfully connected to the database
+2018-05-08 09:34:27 - info: Got UUID:  1234
+2018-05-08 02:19:16 - info: Server is listening on port 3000
+2018-05-08 02:19:16 - info: Successfully connected to the database
+2018-05-08 04:57:13 - info: Server is listening on port 3000
+2018-05-08 04:57:13 - info: Successfully connected to the database
+2018-05-08 04:58:01 - info: Server is listening on port 3000
+2018-05-08 04:58:01 - info: Successfully connected to the database
+2018-05-08 05:26:22 - info: Server is listening on port 3000
+2018-05-08 05:26:22 - info: Successfully connected to the database
+2018-05-08 05:28:24 - info: Server is listening on port 3000
+2018-05-08 05:28:36 - info: Successfully connected to the database
+2018-05-08 05:28:55 - info: Server is listening on port 3000
+2018-05-08 05:28:55 - info: Successfully connected to the database
+2018-05-08 05:29:27 - info: Server is listening on port 3000
+2018-05-08 05:29:27 - info: Successfully connected to the database
+2018-05-08 05:29:44 - info: Server is listening on port 3000
+2018-05-08 05:29:45 - info: Successfully connected to the database
+2018-05-08 05:31:41 - info: Server is listening on port 3000
+2018-05-08 05:31:41 - info: Successfully connected to the database
+2018-05-08 05:33:38 - info: Server is listening on port 3000
+2018-05-08 05:33:38 - info: Successfully connected to the database
+2018-05-08 05:38:52 - info: Server is listening on port 3000
+2018-05-08 05:38:52 - info: Successfully connected to the database
+2018-05-08 05:39:05 - info: Server is listening on port 3000
+2018-05-08 05:39:05 - info: Successfully connected to the database
+2018-05-08 09:46:03 - info: Server is listening on port 3000
+2018-05-08 09:46:03 - info: Successfully connected to the database
+2018-05-08 10:52:21 - info: Server is listening on port 3000
+2018-05-08 10:52:21 - info: Successfully connected to the database
+2018-05-08 10:54:28 - info: Server is listening on port 3000
+2018-05-08 10:54:28 - info: Successfully connected to the database
+2018-05-08 11:12:07 - info: Server is listening on port 3000
+2018-05-08 11:12:07 - info: Successfully connected to the database
+2018-05-08 11:15:22 - info: Server is listening on port 3000
+2018-05-08 11:15:23 - info: Successfully connected to the database
+2018-05-08 11:19:14 - info: Server is listening on port 3000
+2018-05-08 11:19:14 - info: Successfully connected to the database
+2018-05-08 11:23:21 - info: Server is listening on port 3000
+2018-05-08 11:23:21 - info: Successfully connected to the database
+2018-05-08 11:25:46 - info: Server is listening on port 3000
+2018-05-08 11:25:46 - info: Successfully connected to the database
+2018-05-08 11:27:17 - info: Server is listening on port 3000
+2018-05-08 11:27:17 - info: Successfully connected to the database
+2018-05-08 11:32:01 - info: Server is listening on port 3000
+2018-05-08 11:32:01 - info: Successfully connected to the database
+2018-05-08 11:33:30 - info: Server is listening on port 3000
+2018-05-08 11:33:30 - info: Successfully connected to the database

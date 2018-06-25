@@ -1,0 +1,261 @@
+﻿[
+  {
+    "order": 1,
+    "status": 1,
+    "totalGlossary": 61,
+    "totalCourse": 3,
+    "_id": "5adf56df300f72163129cb3a",
+    "name": "Finance",
+    "parent": "",
+    "tree": [],
+    "resources": [
+      {
+        "_id": "en",
+        "text": "Finance"
+      },
+      {
+        "_id": "vi",
+        "text": "Tài chính"
+      },
+      {
+        "_id": "fr",
+        "text": "La finance"
+      },
+      {
+        "_id": "es",
+        "text": "Financiar"
+      },
+      {
+        "_id": "pt",
+        "text": "Finança"
+      },
+      {
+        "_id": "lo",
+        "text": "ການເງິນ"
+      },
+      {
+        "_id": "km",
+        "text": "ហិរញ្ញវត្ថុ"
+      },
+      {
+        "_id": "sw",
+        "text": "Fedha"
+      }
+    ]
+  },
+  {
+    "order": 2,
+    "status": 2,
+    "totalGlossary": 26,
+    "totalCourse": 0,
+    "_id": "5adf56fa300f72163129cb3b",
+    "name": "Procurement",
+    "parent": "",
+    "resources": [
+      {
+        "_id": "en",
+        "text": "Procurement"
+      },
+      {
+        "_id": "vi",
+        "text": "Mua sắm"
+      },
+      {
+        "_id": "fr",
+        "text": "Approvisionnement"
+      },
+      {
+        "_id": "es",
+        "text": "Obtención"
+      },
+      {
+        "_id": "pt",
+        "text": "Procurement"
+      },
+      {
+        "_id": "lo",
+        "text": "ການຈັດຊື້"
+      },
+      {
+        "_id": "km",
+        "text": "លទ្ធកម្ម"
+      },
+      {
+        "_id": "sw",
+        "text": "Ununuzi"
+      }
+    ]
+  },
+  {
+    "order": 3,
+    "status": 3,
+    "totalGlossary": 91,
+    "totalCourse": 0,
+    "_id": "5ae181bf720fb61e1d868a6e",
+    "name": "Technical",
+    "parent": "",
+    "resources": [
+      {
+        "_id": "en",
+        "text": "Technical"
+      },
+      {
+        "_id": "vi",
+        "text": "Kỹ thuật"
+      },
+      {
+        "_id": "fr",
+        "text": "Technique"
+      },
+      {
+        "_id": "es",
+        "text": "Técnico"
+      },
+      {
+        "_id": "pt",
+        "text": "Técnico"
+      },
+      {
+        "_id": "lo",
+        "text": "ເທກນິກ"
+      },
+      {
+        "_id": "km",
+        "text": "បច្ចេកទេស"
+      },
+      {
+        "_id": "sw",
+        "text": "Kiufundi"
+      }
+    ]
+  },
+  {
+    "order": 1,
+    "status": 1,
+    "totalGlossary": 91,
+    "totalCourse": 0,
+    "_id": "5ae18218720fb61e1d868a6f",
+    "name": "Transmission",
+    "parent": "5ae181bf720fb61e1d868a6e",
+    "resources": [
+      {
+        "_id": "en",
+        "text": "Transmission"
+      },
+      {
+        "_id": "vi",
+        "text": "Truyền dẫn"
+      },
+      {
+        "_id": "fr",
+        "text": "Transmission"
+      },
+      {
+        "_id": "es",
+        "text": "Transmisión"
+      },
+      {
+        "_id": "pt",
+        "text": "Transmissão"
+      },
+      {
+        "_id": "lo",
+        "text": "ການສົ່ງຜ່ານ"
+      },
+      {
+        "_id": "km",
+        "text": "ការបញ្ជូន"
+      },
+      {
+        "_id": "sw",
+        "text": "Uhamisho"
+      }
+    ]
+  },
+  {
+    "order": 1,
+    "status": 1,
+    "totalGlossary": 61,
+    "totalCourse": 0,
+    "_id": "5ae3035205216122286ed15d",
+    "name": "General Terms",
+    "parent": "5adf56df300f72163129cb3a",
+    "resources": [
+      {
+        "_id": "en",
+        "text": "General Terms"
+      },
+      {
+        "_id": "vi",
+        "text": "Thuật ngữ chung"
+      },
+      {
+        "_id": "fr",
+        "text": "Conditions générales"
+      },
+      {
+        "_id": "es",
+        "text": "Términos generales"
+      },
+      {
+        "_id": "pt",
+        "text": "Termos gerais"
+      },
+      {
+        "_id": "lo",
+        "text": "ເງື່ອນໄຂທົ່ວໄປ"
+      },
+      {
+        "_id": "km",
+        "text": "លក្ខខណ្ឌទូទៅ"
+      },
+      {
+        "_id": "sw",
+        "text": "Masharti Ya jumla"
+      }
+    ]
+  },
+  {
+    "order": 1,
+    "status": 1,
+    "totalGlossary": 26,
+    "totalCourse": 0,
+    "_id": "5aea79750936ec362fb7c67f",
+    "name": "General Terms",
+    "parent": "5adf56fa300f72163129cb3b",
+    "resources": [
+      {
+        "_id": "en",
+        "text": "General Terms"
+      },
+      {
+        "_id": "vi",
+        "text": "Thuật ngữ chung"
+      },
+      {
+        "_id": "fr",
+        "text": "Conditions générales"
+      },
+      {
+        "_id": "es",
+        "text": "Términos generales"
+      },
+      {
+        "_id": "pt",
+        "text": "Termos gerais"
+      },
+      {
+        "_id": "lo",
+        "text": "ເງື່ອນໄຂທົ່ວໄປ"
+      },
+      {
+        "_id": "km",
+        "text": "លក្ខខណ្ឌទូទៅ"
+      },
+      {
+        "_id": "sw",
+        "text": "Masharti Ya jumla"
+      }
+    ]
+  }
+]

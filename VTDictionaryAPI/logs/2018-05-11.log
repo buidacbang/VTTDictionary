@@ -1,0 +1,81 @@
+2018-05-11 12:04:41 - info: Server is listening on port 3000
+2018-05-11 12:04:41 - info: Successfully connected to the database
+2018-05-11 12:06:50 - info: Server is listening on port 3000
+2018-05-11 12:06:50 - info: Successfully connected to the database
+2018-05-11 08:40:20 - info: Server is listening on port 3000
+2018-05-11 08:40:20 - info: Successfully connected to the database
+2018-05-11 08:52:13 - info: Server is listening on port 3000
+2018-05-11 08:52:13 - info: Successfully connected to the database
+2018-05-11 08:55:01 - info: Server is listening on port 3000
+2018-05-11 08:55:01 - info: Successfully connected to the database
+2018-05-11 09:10:52 - info: Server is listening on port 3000
+2018-05-11 09:10:52 - info: Successfully connected to the database
+2018-05-11 09:12:18 - info: Server is listening on port 3000
+2018-05-11 09:12:18 - info: Successfully connected to the database
+2018-05-11 09:14:59 - info: Server is listening on port 3000
+2018-05-11 09:14:59 - info: Successfully connected to the database
+2018-05-11 10:34:03 - info: Server is listening on port 3000
+2018-05-11 10:34:03 - info: Successfully connected to the database
+2018-05-11 11:07:37 - info: Server is listening on port 3000
+2018-05-11 11:07:37 - info: Successfully connected to the database
+2018-05-11 11:12:17 - info: Server is listening on port 3000
+2018-05-11 11:12:17 - info: Successfully connected to the database
+2018-05-11 11:14:43 - info: Server is listening on port 3000
+2018-05-11 11:14:43 - info: Successfully connected to the database
+2018-05-11 11:19:46 - info: Server is listening on port 3000
+2018-05-11 11:19:46 - info: Successfully connected to the database
+2018-05-11 11:21:08 - info: Server is listening on port 3000
+2018-05-11 11:21:08 - info: Successfully connected to the database
+2018-05-11 11:52:31 - info: Server is listening on port 3000
+2018-05-11 11:52:31 - info: Successfully connected to the database
+2018-05-11 11:54:19 - info: Server is listening on port 3000
+2018-05-11 11:54:19 - info: Successfully connected to the database
+2018-05-11 01:30:58 - info: Server is listening on port 3000
+2018-05-11 01:30:58 - info: Successfully connected to the database
+2018-05-11 01:38:13 - info: Server is listening on port 3000
+2018-05-11 01:38:13 - info: Successfully connected to the database
+2018-05-11 01:40:11 - error: Error occurs while rolling back the transaction:  TypeError: Cannot set property 'status' of undefined
+    at Transaction.updateOperationStatus (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose-transactions\dist\src\main.js:529:39)
+    at Transaction.<anonymous> (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose-transactions\dist\src\main.js:427:58)
+    at step (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose-transactions\dist\src\main.js:32:23)
+    at Object.next (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose-transactions\dist\src\main.js:13:53)
+    at D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose-transactions\dist\src\main.js:7:71
+    at new Promise (<anonymous>)
+    at __awaiter (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose-transactions\dist\src\main.js:3:12)
+    at D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose-transactions\dist\src\main.js:423:74
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+2018-05-11 01:43:55 - info: Server is listening on port 3000
+2018-05-11 01:43:55 - info: Successfully connected to the database
+2018-05-11 01:47:29 - info: Server is listening on port 3000
+2018-05-11 01:47:29 - info: Successfully connected to the database
+2018-05-11 01:50:16 - info: Server is listening on port 3000
+2018-05-11 01:50:16 - info: Successfully connected to the database
+2018-05-11 01:53:05 - info: Server is listening on port 3000
+2018-05-11 01:53:05 - info: Successfully connected to the database
+2018-05-11 01:53:35 - info: Server is listening on port 3000
+2018-05-11 01:53:35 - info: Successfully connected to the database
+2018-05-11 01:54:20 - info: Server is listening on port 3000
+2018-05-11 01:54:20 - info: Successfully connected to the database
+2018-05-11 01:55:07 - info: Server is listening on port 3000
+2018-05-11 01:55:07 - info: Successfully connected to the database
+2018-05-11 01:56:47 - info: Server is listening on port 3000
+2018-05-11 01:56:47 - info: Successfully connected to the database
+2018-05-11 02:05:40 - info: Server is listening on port 3000
+2018-05-11 02:05:40 - info: Successfully connected to the database
+2018-05-11 02:14:06 - info: Server is listening on port 3000
+2018-05-11 02:14:06 - info: Successfully connected to the database
+2018-05-11 02:14:32 - info: Server is listening on port 3000
+2018-05-11 02:14:32 - info: Successfully connected to the database
+2018-05-11 02:15:16 - info: Server is listening on port 3000
+2018-05-11 02:15:16 - info: Successfully connected to the database
+2018-05-11 02:15:37 - info: Server is listening on port 3000
+2018-05-11 02:15:37 - info: Successfully connected to the database
+2018-05-11 02:18:18 - info: Server is listening on port 3000
+2018-05-11 02:18:18 - info: Successfully connected to the database
+2018-05-11 02:18:48 - info: Server is listening on port 3000
+2018-05-11 02:18:48 - info: Successfully connected to the database
+2018-05-11 02:23:59 - info: Server is listening on port 3000
+2018-05-11 02:23:59 - info: Successfully connected to the database
+2018-05-11 02:41:08 - info: Server is listening on port 3000
+2018-05-11 02:41:08 - info: Successfully connected to the database

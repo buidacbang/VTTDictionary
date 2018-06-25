@@ -1,0 +1,90 @@
+2018-05-16 09:57:06 - info: Server is listening on port 3000
+2018-05-16 09:57:10 - info: Successfully connected to the database
+2018-05-16 11:09:34 - info: Server is listening on port 3000
+2018-05-16 11:09:34 - info: Successfully connected to the database
+2018-05-16 11:27:18 - info: Server is listening on port 3000
+2018-05-16 11:27:20 - info: Successfully connected to the database
+2018-05-16 11:29:01 - info: Server is listening on port 3000
+2018-05-16 11:29:01 - info: Successfully connected to the database
+2018-05-16 01:29:20 - info: Server is listening on port 3000
+2018-05-16 01:29:20 - info: Successfully connected to the database
+2018-05-16 01:31:46 - info: Server is listening on port 3000
+2018-05-16 01:31:46 - info: Successfully connected to the database
+2018-05-16 01:34:13 - info: Server is listening on port 3000
+2018-05-16 01:34:14 - info: Successfully connected to the database
+2018-05-16 02:21:40 - info: Server is listening on port 3000
+2018-05-16 02:21:40 - info: Successfully connected to the database
+2018-05-16 02:22:33 - error: Error at function: Category->findAll TypeError: Cannot read property 'find' of undefined
+    at Category.find.then.data (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\app\controllers\category.controller.js:137:42)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+2018-05-16 02:23:03 - info: Server is listening on port 3000
+2018-05-16 02:23:03 - info: Successfully connected to the database
+2018-05-16 02:23:04 - error: Error at function: Category->findAll TypeError: Cannot read property 'find' of undefined
+    at Category.find.then.data (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\app\controllers\category.controller.js:137:42)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+2018-05-16 02:23:29 - info: Server is listening on port 3000
+2018-05-16 02:23:30 - info: Successfully connected to the database
+2018-05-16 02:24:07 - info: Server is listening on port 3000
+2018-05-16 02:24:07 - info: Successfully connected to the database
+2018-05-16 02:33:32 - info: Server is listening on port 3000
+2018-05-16 02:33:32 - info: Successfully connected to the database
+2018-05-16 02:44:05 - info: Server is listening on port 3000
+2018-05-16 02:44:05 - info: Successfully connected to the database
+2018-05-16 02:44:08 - error: Error at function: Category->findAll TypeError: Cannot read property 'text' of undefined
+    at data.map.category (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\app\controllers\category.controller.js:139:46)
+    at Array.map (<anonymous>)
+    at Category.find.then.data (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\app\controllers\category.controller.js:137:35)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+2018-05-16 02:46:39 - info: Server is listening on port 3000
+2018-05-16 02:46:39 - info: Successfully connected to the database
+2018-05-16 02:47:41 - info: Server is listening on port 3000
+2018-05-16 02:47:41 - info: Successfully connected to the database
+2018-05-16 02:52:10 - info: Server is listening on port 3000
+2018-05-16 02:52:10 - info: Successfully connected to the database
+2018-05-16 02:53:33 - info: Server is listening on port 3000
+2018-05-16 02:53:33 - info: Successfully connected to the database
+2018-05-16 02:55:22 - info: Server is listening on port 3000
+2018-05-16 02:55:22 - info: Successfully connected to the database
+2018-05-16 02:55:26 - error: Error at function: Category->findAll TypeError: Cannot read property 'text' of undefined
+    at data.map.category (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\app\controllers\category.controller.js:139:46)
+    at Array.map (<anonymous>)
+    at Category.find.then.data (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\app\controllers\category.controller.js:137:35)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+2018-05-16 02:55:54 - info: Server is listening on port 3000
+2018-05-16 02:55:54 - info: Successfully connected to the database
+2018-05-16 02:56:06 - error: Error at function: Category->findAll TypeError: Cannot read property 'text' of undefined
+    at data.map.category (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\app\controllers\category.controller.js:139:46)
+    at Array.map (<anonymous>)
+    at Category.find.then.data (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\app\controllers\category.controller.js:137:35)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+2018-05-16 03:51:08 - info: Server is listening on port 3000
+2018-05-16 03:51:08 - info: Successfully connected to the database
+2018-05-16 03:53:57 - info: Server is listening on port 3000
+2018-05-16 03:53:57 - info: Successfully connected to the database
+2018-05-16 03:54:16 - error: Error at function: Category->findAll TypeError: Cannot read property 'text' of undefined
+    at data.map.category (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\app\controllers\category.controller.js:139:46)
+    at Array.map (<anonymous>)
+    at Category.find.then.data (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\app\controllers\category.controller.js:137:35)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+2018-05-16 03:54:33 - error: Error at function: Category->findAll TypeError: Cannot read property 'text' of undefined
+    at data.map.category (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\app\controllers\category.controller.js:139:46)
+    at Array.map (<anonymous>)
+    at Category.find.then.data (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\app\controllers\category.controller.js:137:35)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+2018-05-16 03:54:38 - error: Error at function: Category->findAll TypeError: Cannot read property 'text' of undefined
+    at data.map.category (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\app\controllers\category.controller.js:139:46)
+    at Array.map (<anonymous>)
+    at Category.find.then.data (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\app\controllers\category.controller.js:137:35)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+2018-05-16 03:56:13 - info: Server is listening on port 3000
+2018-05-16 03:56:13 - info: Successfully connected to the database
+2018-05-16 04:00:27 - info: Server is listening on port 3000
+2018-05-16 04:00:27 - info: Successfully connected to the database

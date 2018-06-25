@@ -1,0 +1,16 @@
+2018-05-22 08:18:12 - info: Server is listening on port: 3000
+2018-05-22 08:18:12 - info: Successfully connected to the database
+2018-05-22 08:19:37 - info: Server is listening on port: 3000
+2018-05-22 08:19:37 - info: Successfully connected to the database
+2018-05-22 08:33:50 - info: Server is listening on port: 3000
+2018-05-22 08:33:50 - info: Successfully connected to the database
+2018-05-22 09:11:43 - info: Server is listening on port: 3000
+2018-05-22 09:11:43 - info: Successfully connected to the database
+2018-05-22 09:15:39 - info: Server is listening on port: 3000
+2018-05-22 09:15:39 - info: Successfully connected to the database
+2018-05-22 09:15:57 - error: Error at function: Dictionary.transalte-> get daudios TypeError: text should be a string
+    at module.exports (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\google-tts-api\lib\api.js:16:11)
+    at addResult (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\app\common\google-tts.common.js:31:22)
+    at key.then.key (D:\BangBD\Projects glossary\Projects\VTDictionaryAPI\VTDictionaryAPI\app\common\google-tts.common.js:40:17)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)

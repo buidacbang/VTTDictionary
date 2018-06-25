@@ -1,0 +1,7 @@
+2018-05-06 12:21:22 - info: Server is listening on port 3000
+2018-05-06 12:21:22 - info: Successfully connected to the database
+2018-05-06 12:25:16 - error: Error at function: CateCacheController.create->saveNewCateCache->getParentCategory TypeError: Cannot read property 'value' of null
+    at CateCache.findOne.then.catecache (D:\current work\pdt - vtt\Tu dien Tieng Anh chuyen nganh\vt dictionary\VTDictionaryAPI\VTDictionaryAPI\app\controllers\category.controller.js:83:31)
+    at <anonymous>
+2018-05-06 12:33:24 - info: Server is listening on port 3000
+2018-05-06 12:33:24 - info: Successfully connected to the database

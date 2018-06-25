@@ -1,0 +1,56 @@
+2018-05-15 03:13:35 - info: Server is listening on port 3000
+2018-05-15 03:13:35 - info: Successfully connected to the database
+2018-05-15 03:13:52 - error: Error at function: DictionaryController.findAll TypeError: _findQuery.replace is not a function
+    at executeFindQuery (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\app\controllers\dictionary.controller.js:398:20)
+    at executeCountQuery.then.totalRecord (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\app\controllers\dictionary.controller.js:297:17)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+2018-05-15 03:13:59 - error: Error at function: DictionaryController.findAll TypeError: _findQuery.replace is not a function
+    at executeFindQuery (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\app\controllers\dictionary.controller.js:398:20)
+    at executeCountQuery.then.totalRecord (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\app\controllers\dictionary.controller.js:297:17)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+2018-05-15 03:16:33 - info: Server is listening on port 3000
+2018-05-15 03:16:33 - info: Successfully connected to the database
+2018-05-15 03:33:28 - info: Server is listening on port 3000
+2018-05-15 03:33:28 - info: Successfully connected to the database
+2018-05-15 03:33:42 - error: Error occurs while rolling back the transaction:  TypeError: Cannot set property 'status' of undefined
+    at Transaction.updateOperationStatus (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose-transactions\dist\src\main.js:529:39)
+    at Transaction.<anonymous> (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose-transactions\dist\src\main.js:427:58)
+    at step (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose-transactions\dist\src\main.js:32:23)
+    at Object.next (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose-transactions\dist\src\main.js:13:53)
+    at D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose-transactions\dist\src\main.js:7:71
+    at new Promise (<anonymous>)
+    at __awaiter (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose-transactions\dist\src\main.js:3:12)
+    at D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose-transactions\dist\src\main.js:423:74
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+2018-05-15 03:33:54 - info: Server is listening on port 3000
+2018-05-15 03:33:54 - info: Successfully connected to the database
+2018-05-15 03:34:28 - error: Error occurs while rolling back the transaction:  TypeError: Cannot set property 'status' of undefined
+    at Transaction.updateOperationStatus (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose-transactions\dist\src\main.js:529:39)
+    at Transaction.<anonymous> (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose-transactions\dist\src\main.js:427:58)
+    at step (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose-transactions\dist\src\main.js:32:23)
+    at Object.next (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose-transactions\dist\src\main.js:13:53)
+    at D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose-transactions\dist\src\main.js:7:71
+    at new Promise (<anonymous>)
+    at __awaiter (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose-transactions\dist\src\main.js:3:12)
+    at D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose-transactions\dist\src\main.js:423:74
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+2018-05-15 03:35:31 - error: Error occurs while rolling back the transaction:  TypeError: Cannot set property 'status' of undefined
+    at Transaction.updateOperationStatus (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose-transactions\dist\src\main.js:529:39)
+    at Transaction.<anonymous> (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose-transactions\dist\src\main.js:427:58)
+    at step (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose-transactions\dist\src\main.js:32:23)
+    at Object.next (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose-transactions\dist\src\main.js:13:53)
+    at D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose-transactions\dist\src\main.js:7:71
+    at new Promise (<anonymous>)
+    at __awaiter (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose-transactions\dist\src\main.js:3:12)
+    at D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose-transactions\dist\src\main.js:423:74
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+2018-05-15 03:36:43 - info: Server is listening on port 3000
+2018-05-15 03:36:43 - info: Successfully connected to the database
+2018-05-15 03:47:05 - info: Server is listening on port 3000
+2018-05-15 03:47:05 - info: Successfully connected to the database
+2018-05-15 03:47:31 - error: Error at function: DictionaryController.findAll->findByKeywordAndCategory CateCache not found with key: 5ae18218720fb61e1d868a6f

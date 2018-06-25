@@ -1,0 +1,227 @@
+2018-05-03T08:20:36.543Z - info: Server is listening on port 3000
+2018-05-03T08:36:57.383Z - info: Server is listening on port 3000
+2018-05-03 03:37:36 - info: Server is listening on port 3000
+2018-05-03 03:38:25 - info: Server is listening on port 3000
+2018-05-03 03:39:44 - info: Server is listening on port 3000
+2018-05-03 03:39:44 - info: Successfully connected to the database
+2018-05-03 04:04:19 - info: Server is listening on port 3000
+2018-05-03 04:04:19 - info: Successfully connected to the database
+2018-05-03 04:05:26 - info: Server is listening on port 3000
+2018-05-03 04:05:26 - info: Successfully connected to the database
+2018-05-03 04:06:30 - info: Server is listening on port 3000
+2018-05-03 04:06:30 - info: Successfully connected to the database
+2018-05-03 04:06:51 - info: Server is listening on port 3000
+2018-05-03 04:06:51 - info: Successfully connected to the database
+2018-05-03 04:07:27 - info: Server is listening on port 3000
+2018-05-03 04:07:27 - info: Successfully connected to the database
+2018-05-03 04:28:58 - info: Server is listening on port 3000
+2018-05-03 04:28:58 - info: Successfully connected to the database
+2018-05-03 04:29:46 - info: Server is listening on port 3000
+2018-05-03 04:29:46 - info: Successfully connected to the database
+2018-05-03 04:32:35 - info: Server is listening on port 3000
+2018-05-03 04:32:35 - info: Successfully connected to the database
+2018-05-03 04:38:08 - info: Server is listening on port 3000
+2018-05-03 04:38:08 - info: Successfully connected to the database
+2018-05-03 04:38:43 - info: Server is listening on port 3000
+2018-05-03 04:38:43 - info: Successfully connected to the database
+2018-05-03 04:40:07 - info: Server is listening on port 3000
+2018-05-03 04:40:07 - info: Successfully connected to the database
+2018-05-03 05:39:39 - info: Server is listening on port 3000
+2018-05-03 05:39:39 - info: Successfully connected to the database
+2018-05-03 05:42:14 - info: Server is listening on port 3000
+2018-05-03 05:42:14 - info: Successfully connected to the database
+2018-05-03 05:43:10 - info: Server is listening on port 3000
+2018-05-03 05:43:10 - info: Successfully connected to the database
+2018-05-03 05:49:25 - info: Server is listening on port 3000
+2018-05-03 05:49:25 - info: Successfully connected to the database
+2018-05-03 05:50:08 - info: Server is listening on port 3000
+2018-05-03 05:50:08 - info: Successfully connected to the database
+2018-05-03 06:03:31 - info: Server is listening on port 3000
+2018-05-03 06:03:31 - info: Successfully connected to the database
+2018-05-03 06:04:19 - error: Error at function: Dictionary.findAll-> executeQuery MongoError: Failed to parse: { find: "dictionaries", filter: {}, sort: { keyword: 1 }, projection: { keyword: 1, kaudio: 1, transcription: 1, categoryid: 1, category: 1, description: 1, daudio: 1, image: 1, video: 1, quiz: 1 }, limit: "6", $db: "dictionary" }. 'limit' field must be numeric.
+    at queryCallback (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongodb-core\lib\cursor.js:223:25)
+    at D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongodb-core\lib\connection\pool.js:541:18
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2018-05-03 06:09:03 - info: Server is listening on port 3000
+2018-05-03 06:09:03 - info: Successfully connected to the database
+2018-05-03 06:11:40 - info: Server is listening on port 3000
+2018-05-03 06:11:40 - info: Successfully connected to the database
+2018-05-03 06:12:25 - info: Server is listening on port 3000
+2018-05-03 06:12:25 - info: Successfully connected to the database
+2018-05-03 06:14:00 - info: Server is listening on port 3000
+2018-05-03 06:14:00 - info: Successfully connected to the database
+2018-05-03 06:18:41 - info: Server is listening on port 3000
+2018-05-03 06:18:41 - info: Successfully connected to the database
+2018-05-03 06:19:49 - info: Server is listening on port 3000
+2018-05-03 06:19:49 - info: Successfully connected to the database
+2018-05-03 06:20:37 - error: Error at function: Dictionary.findAll->findByCategoryQuery
+2018-05-03 06:20:48 - error: Error at function: Dictionary.findAll->findByCategoryQuery
+2018-05-03 06:21:10 - error: Error at function: Dictionary.findAll->findByCategoryQuery
+2018-05-03 06:23:02 - info: Server is listening on port 3000
+2018-05-03 06:23:02 - info: Successfully connected to the database
+2018-05-03 06:24:54 - info: Server is listening on port 3000
+2018-05-03 06:24:54 - info: Successfully connected to the database
+2018-05-03 06:25:07 - error: Error at function: Dictionary.findAll->findByCategory
+2018-05-03 06:25:56 - error: Error at function: Dictionary.findAll->findByCategory
+2018-05-03 06:26:11 - error: Error at function: Dictionary.findAll->findByCategory
+2018-05-03 06:28:50 - info: Server is listening on port 3000
+2018-05-03 06:28:50 - info: Successfully connected to the database
+2018-05-03 06:29:40 - info: Server is listening on port 3000
+2018-05-03 06:29:40 - info: Successfully connected to the database
+2018-05-03 06:34:57 - info: Server is listening on port 3000
+2018-05-03 06:34:57 - info: Successfully connected to the database
+2018-05-03 06:36:15 - info: Server is listening on port 3000
+2018-05-03 06:36:15 - info: Successfully connected to the database
+2018-05-03 06:37:34 - info: Server is listening on port 3000
+2018-05-03 06:37:34 - info: Successfully connected to the database
+2018-05-03 06:37:37 - error: Error at function: Dictionary.findAll->findByCategory
+2018-05-03 06:38:33 - error: Error at function: Dictionary.findAll-> executeQuery CastError: Cast to string failed for value "{ value: [ '5ae18218720fb61e1d868a6f' ],
+  _id: 5aeaf4a1e6315a2d54174a30,
+  key: '5ae18218720fb61e1d868a6f',
+  createdAt: 2018-05-03T11:38:09.271Z,
+  updatedAt: 2018-05-03T11:38:09.271Z,
+  __v: 0 }" at path "categoryid" for model "Dictionary"
+    at new CastError (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\error\cast.js:27:11)
+    at SchemaString.cast (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\schema\string.js:460:9)
+    at SchemaString.SchemaType.applySetters (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\schematype.js:724:12)
+    at SchemaString.SchemaType._castForQuery (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\schematype.js:1095:15)
+    at SchemaString.castForQuery (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\schema\string.js:515:15)
+    at SchemaString.handleArray (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\schematype.js:1031:18)
+    at SchemaString.castForQuery (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\schema\string.js:508:20)
+    at SchemaString.SchemaType.castForQueryWrapper (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\schematype.js:1059:17)
+    at cast (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\cast.js:281:39)
+    at model.Query.Query.cast (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\query.js:3198:12)
+    at model.Query.Query._castConditions (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\query.js:1278:10)
+    at model.Query.Query._find (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\query.js:1293:8)
+    at model.Query.Query.find (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\query.js:1375:8)
+    at utils.promiseOrCallback (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\query.js:3012:19)
+    at Object.promiseOrCallback (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\utils.js:211:14)
+    at model.Query.exec (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\query.js:3006:16)
+2018-05-03 06:39:37 - error: Error at function: Dictionary.findAll-> executeQuery CastError: Cast to string failed for value "{ value: [ '5ae18218720fb61e1d868a6f' ],
+  _id: 5aeaf4a1e6315a2d54174a30,
+  key: '5ae18218720fb61e1d868a6f',
+  createdAt: 2018-05-03T11:38:09.271Z,
+  updatedAt: 2018-05-03T11:38:09.271Z,
+  __v: 0 }" at path "categoryid" for model "Dictionary"
+    at new CastError (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\error\cast.js:27:11)
+    at SchemaString.cast (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\schema\string.js:460:9)
+    at SchemaString.SchemaType.applySetters (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\schematype.js:724:12)
+    at SchemaString.SchemaType._castForQuery (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\schematype.js:1095:15)
+    at SchemaString.castForQuery (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\schema\string.js:515:15)
+    at SchemaString.handleArray (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\schematype.js:1031:18)
+    at SchemaString.castForQuery (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\schema\string.js:508:20)
+    at SchemaString.SchemaType.castForQueryWrapper (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\schematype.js:1059:17)
+    at cast (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\cast.js:281:39)
+    at model.Query.Query.cast (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\query.js:3198:12)
+    at model.Query.Query._castConditions (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\query.js:1278:10)
+    at model.Query.Query._find (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\query.js:1293:8)
+    at model.Query.Query.find (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\query.js:1375:8)
+    at utils.promiseOrCallback (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\query.js:3012:19)
+    at Object.promiseOrCallback (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\utils.js:211:14)
+    at model.Query.exec (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\query.js:3006:16)
+2018-05-03 06:40:33 - error: Error at function: Dictionary.findAll-> executeQuery CastError: Cast to string failed for value "{ value: [ '5ae18218720fb61e1d868a6f' ],
+  _id: 5aeaf4a1e6315a2d54174a30,
+  key: '5ae18218720fb61e1d868a6f',
+  createdAt: 2018-05-03T11:38:09.271Z,
+  updatedAt: 2018-05-03T11:38:09.271Z,
+  __v: 0 }" at path "categoryid" for model "Dictionary"
+    at new CastError (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\error\cast.js:27:11)
+    at SchemaString.cast (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\schema\string.js:460:9)
+    at SchemaString.SchemaType.applySetters (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\schematype.js:724:12)
+    at SchemaString.SchemaType._castForQuery (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\schematype.js:1095:15)
+    at SchemaString.castForQuery (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\schema\string.js:515:15)
+    at SchemaString.handleArray (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\schematype.js:1031:18)
+    at SchemaString.castForQuery (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\schema\string.js:508:20)
+    at SchemaString.SchemaType.castForQueryWrapper (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\schematype.js:1059:17)
+    at cast (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\cast.js:281:39)
+    at model.Query.Query.cast (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\query.js:3198:12)
+    at model.Query.Query._castConditions (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\query.js:1278:10)
+    at model.Query.Query._find (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\query.js:1293:8)
+    at model.Query.Query.find (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\query.js:1375:8)
+    at utils.promiseOrCallback (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\query.js:3012:19)
+    at Object.promiseOrCallback (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\utils.js:211:14)
+    at model.Query.exec (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\query.js:3006:16)
+2018-05-03 06:40:50 - error: Error at function: Dictionary.findAll-> executeQuery CastError: Cast to string failed for value "{ value: [ '5ae18218720fb61e1d868a6f' ],
+  _id: 5aeaf4a1e6315a2d54174a30,
+  key: '5ae18218720fb61e1d868a6f',
+  createdAt: 2018-05-03T11:38:09.271Z,
+  updatedAt: 2018-05-03T11:38:09.271Z,
+  __v: 0 }" at path "categoryid" for model "Dictionary"
+    at new CastError (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\error\cast.js:27:11)
+    at SchemaString.cast (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\schema\string.js:460:9)
+    at SchemaString.SchemaType.applySetters (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\schematype.js:724:12)
+    at SchemaString.SchemaType._castForQuery (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\schematype.js:1095:15)
+    at SchemaString.castForQuery (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\schema\string.js:515:15)
+    at SchemaString.handleArray (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\schematype.js:1031:18)
+    at SchemaString.castForQuery (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\schema\string.js:508:20)
+    at SchemaString.SchemaType.castForQueryWrapper (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\schematype.js:1059:17)
+    at cast (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\cast.js:281:39)
+    at model.Query.Query.cast (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\query.js:3198:12)
+    at model.Query.Query._castConditions (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\query.js:1278:10)
+    at model.Query.Query._find (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\query.js:1293:8)
+    at model.Query.Query.find (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\query.js:1375:8)
+    at utils.promiseOrCallback (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\query.js:3012:19)
+    at Object.promiseOrCallback (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\utils.js:211:14)
+    at model.Query.exec (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\query.js:3006:16)
+2018-05-03 06:40:51 - error: Error at function: Dictionary.findAll-> executeQuery CastError: Cast to string failed for value "{ value: [ '5ae18218720fb61e1d868a6f' ],
+  _id: 5aeaf4a1e6315a2d54174a30,
+  key: '5ae18218720fb61e1d868a6f',
+  createdAt: 2018-05-03T11:38:09.271Z,
+  updatedAt: 2018-05-03T11:38:09.271Z,
+  __v: 0 }" at path "categoryid" for model "Dictionary"
+    at new CastError (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\error\cast.js:27:11)
+    at SchemaString.cast (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\schema\string.js:460:9)
+    at SchemaString.SchemaType.applySetters (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\schematype.js:724:12)
+    at SchemaString.SchemaType._castForQuery (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\schematype.js:1095:15)
+    at SchemaString.castForQuery (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\schema\string.js:515:15)
+    at SchemaString.handleArray (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\schematype.js:1031:18)
+    at SchemaString.castForQuery (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\schema\string.js:508:20)
+    at SchemaString.SchemaType.castForQueryWrapper (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\schematype.js:1059:17)
+    at cast (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\cast.js:281:39)
+    at model.Query.Query.cast (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\query.js:3198:12)
+    at model.Query.Query._castConditions (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\query.js:1278:10)
+    at model.Query.Query._find (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\query.js:1293:8)
+    at model.Query.Query.find (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\query.js:1375:8)
+    at utils.promiseOrCallback (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\query.js:3012:19)
+    at Object.promiseOrCallback (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\utils.js:211:14)
+    at model.Query.exec (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\query.js:3006:16)
+2018-05-03 06:41:39 - info: Server is listening on port 3000
+2018-05-03 06:41:39 - info: Successfully connected to the database
+2018-05-03 06:47:24 - info: Server is listening on port 3000
+2018-05-03 06:47:24 - info: Successfully connected to the database
+2018-05-03 06:48:37 - info: Server is listening on port 3000
+2018-05-03 06:48:37 - info: Successfully connected to the database
+2018-05-03 06:53:47 - error: Error at function: Dictionary.findAll->findByCategory Error: sort() only takes 1 Argument
+    at model.Query.Query.sort (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\query.js:1777:11)
+    at getCateCacheByCategory.then.catecaches (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\app\controllers\dictionary.controller.js:184:128)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+2018-05-03 06:53:49 - error: Error at function: Dictionary.findAll->findByCategory Error: sort() only takes 1 Argument
+    at model.Query.Query.sort (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongoose\lib\query.js:1777:11)
+    at getCateCacheByCategory.then.catecaches (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\app\controllers\dictionary.controller.js:184:128)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+2018-05-03 06:54:18 - info: Server is listening on port 3000
+2018-05-03 06:54:18 - info: Successfully connected to the database
+2018-05-03 11:10:35 - info: Server is listening on port 3000
+2018-05-03 11:10:36 - info: Successfully connected to the database
+2018-05-03 11:12:33 - info: Server is listening on port 3000
+2018-05-03 11:12:33 - info: Successfully connected to the database
+2018-05-03 11:18:51 - info: Server is listening on port 3000
+2018-05-03 11:18:51 - info: Successfully connected to the database
+2018-05-03 11:25:36 - info: Server is listening on port 3000
+2018-05-03 11:25:36 - info: Successfully connected to the database
+2018-05-03 11:35:02 - info: Server is listening on port 3000
+2018-05-03 11:35:02 - info: Successfully connected to the database
+2018-05-03 11:36:46 - info: Server is listening on port 3000
+2018-05-03 11:36:46 - info: Successfully connected to the database
+2018-05-03 11:39:23 - error: Error at function: Setting.create BulkWriteError: E11000 duplicate key error collection: dictionary.settings index: key_1 dup key: { : "ios version" }
+    at D:\current work\pdt - vtt\Tu dien Tieng Anh chuyen nganh\vt dictionary\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongodb\lib\bulk\unordered.js:535:15
+    at handleCallback (D:\current work\pdt - vtt\Tu dien Tieng Anh chuyen nganh\vt dictionary\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongodb\lib\utils.js:128:55)
+    at resultHandler (D:\current work\pdt - vtt\Tu dien Tieng Anh chuyen nganh\vt dictionary\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongodb\lib\bulk\unordered.js:456:5)
+    at D:\current work\pdt - vtt\Tu dien Tieng Anh chuyen nganh\vt dictionary\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongodb-core\lib\connection\pool.js:541:18
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2018-05-03 11:41:25 - info: Server is listening on port 3000
+2018-05-03 11:41:25 - info: Successfully connected to the database

@@ -1,0 +1,65 @@
+2018-05-27 05:45:51 - info: Server is listening on port: 3000
+2018-05-27 05:45:51 - info: Successfully connected to the database
+2018-05-27 05:47:17 - info: Server is listening on port: 3000
+2018-05-27 05:47:17 - info: Successfully connected to the database
+2018-05-27 05:50:18 - info: Server is listening on port: 3000
+2018-05-27 05:50:18 - info: Successfully connected to the database
+2018-05-27 05:53:07 - info: Server is listening on port: 3000
+2018-05-27 05:53:08 - info: Successfully connected to the database
+2018-05-27 06:08:51 - info: Server is listening on port: 3000
+2018-05-27 06:08:51 - info: Successfully connected to the database
+2018-05-27 10:38:20 - info: Server is listening on port: 3000
+2018-05-27 10:38:21 - info: Successfully connected to the database
+2018-05-27 10:42:04 - info: Server is listening on port: 3000
+2018-05-27 10:42:04 - info: Successfully connected to the database
+2018-05-27 10:44:36 - info: Server is listening on port: 3000
+2018-05-27 10:44:36 - info: Successfully connected to the database
+2018-05-27 10:48:36 - info: Server is listening on port: 3000
+2018-05-27 10:48:36 - info: Successfully connected to the database
+2018-05-27 10:49:11 - error: Error at function: Dictionary.bulkInsertOrUpdate -> get k-audio { FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\current work\pdt - vtt\Tu dien Tieng Anh chuyen nganh\vt dictionary\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+  name: 'FetchError',
+  message: 'network timeout at: https://translate.google.com',
+  type: 'request-timeout' } keyword=Debt Ratio, kaudio=, transcription=, categoryid=5ae3035205216122286ed15d, category=General Terms1, description=The debt ratio is a financial ratio that measures the extent of a company’s leverage. The debt ratio is defined as the ratio of total debt to total assets, expressed as a decimal or percentage. It can be interpreted as the proportion of a company’s assets that are financed by debt.Dept Ratio = Total Debt / Total Assets, daudio=, image=, video=http://171.244.43.33/resources/videos/Finance/Debt%20Ratio.mp4, videos=http://171.244.43.33/resources/videos/Finance/Debt%20Ratio.mp4,http://171.244.43.33/resources/videos/Finance/Debt%20Ratio.mp4, quiz=, checkCount=1, name=FetchError, message=network timeout at: https://translate.google.com, type=request-timeout
+2018-05-27 10:49:12 - error: Error at function: Dictionary.bulkInsertOrUpdate -> get d-audio { FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\current work\pdt - vtt\Tu dien Tieng Anh chuyen nganh\vt dictionary\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+  name: 'FetchError',
+  message: 'network timeout at: https://translate.google.com',
+  type: 'request-timeout' } keyword=Debt Ratio, kaudio=, transcription=, categoryid=5ae3035205216122286ed15d, category=General Terms1, description=The debt ratio is a financial ratio that measures the extent of a company’s leverage. The debt ratio is defined as the ratio of total debt to total assets, expressed as a decimal or percentage. It can be interpreted as the proportion of a company’s assets that are financed by debt.Dept Ratio = Total Debt / Total Assets, daudio=, image=, video=http://171.244.43.33/resources/videos/Finance/Debt%20Ratio.mp4, videos=http://171.244.43.33/resources/videos/Finance/Debt%20Ratio.mp4,http://171.244.43.33/resources/videos/Finance/Debt%20Ratio.mp4, quiz=, checkCount=2, name=FetchError, message=network timeout at: https://translate.google.com, type=request-timeout
+2018-05-27 10:49:12 - error: Error at function: Dictionary.bulkInsertOrUpdate -> get k-audio { FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\current work\pdt - vtt\Tu dien Tieng Anh chuyen nganh\vt dictionary\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+  name: 'FetchError',
+  message: 'network timeout at: https://translate.google.com',
+  type: 'request-timeout' } keyword=Interest Coverage Ratio, kaudio=, transcription=, categoryid=5ae3035205216122286ed15d, category=General Terms2, description=The EBITDA-to-interest coverage ratio is a ratio that is used to assess a company's financial durability by examining whether it is at least profitably enough to pay off its interest expenses. A ratio greater than 1 indicates that the company has more than enough interest coverage to pay off its interest expenses. This ratio is also known as EBITDA coverage.The ratio is calculated as follows:EBITDA to Interest Coverage Ratio = EBITDA / Interest Payments, daudio=, image=, video=http://171.244.43.33/resources/videos/Finance/Interest%20Coverage%20Ratio.mp4, videos=['http://171.244.43.33/resources/videos/Finance/Interest%20Coverage%20Ratio.mp4'], quiz=, checkCount=1, name=FetchError, message=network timeout at: https://translate.google.com, type=request-timeout
+2018-05-27 10:49:13 - error: Error at function: Dictionary.bulkInsertOrUpdate -> get d-audio { FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\current work\pdt - vtt\Tu dien Tieng Anh chuyen nganh\vt dictionary\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+  name: 'FetchError',
+  message: 'network timeout at: https://translate.google.com',
+  type: 'request-timeout' } keyword=Interest Coverage Ratio, kaudio=, transcription=, categoryid=5ae3035205216122286ed15d, category=General Terms2, description=The EBITDA-to-interest coverage ratio is a ratio that is used to assess a company's financial durability by examining whether it is at least profitably enough to pay off its interest expenses. A ratio greater than 1 indicates that the company has more than enough interest coverage to pay off its interest expenses. This ratio is also known as EBITDA coverage.The ratio is calculated as follows:EBITDA to Interest Coverage Ratio = EBITDA / Interest Payments, daudio=, image=, video=http://171.244.43.33/resources/videos/Finance/Interest%20Coverage%20Ratio.mp4, videos=['http://171.244.43.33/resources/videos/Finance/Interest%20Coverage%20Ratio.mp4'], quiz=, checkCount=2, name=FetchError, message=network timeout at: https://translate.google.com, type=request-timeout
+2018-05-27 10:54:37 - info: Server is listening on port: 3000
+2018-05-27 10:54:37 - info: Successfully connected to the database
+2018-05-27 10:56:50 - info: Server is listening on port: 3000
+2018-05-27 10:56:50 - info: Successfully connected to the database
+2018-05-27 10:57:21 - info: Server is listening on port: 3000
+2018-05-27 10:57:21 - info: Successfully connected to the database
+2018-05-27 10:57:25 - error: Error at function: Dictionary.bulkInsertOrUpdate -> save dictionary TypeError: Cannot convert undefined or null to object
+    at Function.keys (<anonymous>)
+    at Dictionary.create.then.result (D:\current work\pdt - vtt\Tu dien Tieng Anh chuyen nganh\vt dictionary\VTDictionaryAPI\VTDictionaryAPI\app\controllers\dictionary.controller.js:157:47)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7) keyword=Debt Ratio, kaudio=https://translate.google.com/translate_tts?ie=UTF-8&q=Debt%20Ratio&tl=en&total=1&idx=0&textlen=10&tk=51841.439262&client=t&prev=input&ttsspeed=1, transcription=, categoryid=5ae3035205216122286ed15d, category=General Terms1, description=The debt ratio is a financial ratio that measures the extent of a company’s leverage. The debt ratio is defined as the ratio of total debt to total assets, expressed as a decimal or percentage. It can be interpreted as the proportion of a company’s assets that are financed by debt.Dept Ratio = Total Debt / Total Assets, daudio=, image=, video=http://171.244.43.33/resources/videos/Finance/Debt%20Ratio.mp4, videos=http://171.244.43.33/resources/videos/Finance/Debt%20Ratio.mp4,http://171.244.43.33/resources/videos/Finance/Debt%20Ratio.mp4, quiz=, checkCount=2, daudios=[https://translate.google.com/translate_tts?ie=UTF-8&q=The%20debt%20ratio%20is%20a%20financial%20ratio%20that%20measures%20the%20extent%20of%20a%20company%E2%80%99s%20leverage.%20The%20debt%20ratio%20is%20defined%20as%20the%20ratio%20of%20total%20debt%20to%20total%20assets%2C%20expressed%20as%20a%20decimal%20or%20percentage.%20It%20can&tl=en&total=1&idx=0&textlen=200&tk=660075.813876&client=t&prev=input&ttsspeed=1, https://translate.google.com/translate_tts?ie=UTF-8&q=%20be%20interpreted%20as%20the%20proportion%20of%20a%20company%E2%80%99s%20assets%20that%20are%20financed%20by%20debt.Dept%20Ratio%20%3D%20Total%20Debt%20%2F%20Total%20Assets&tl=en&total=1&idx=0&textlen=120&tk=207237.348378&client=t&prev=input&ttsspeed=1], isFinished=true
+2018-05-27 11:06:47 - info: Server is listening on port: 3000
+2018-05-27 11:06:47 - info: Successfully connected to the database
+2018-05-27 11:08:58 - info: Server is listening on port: 3000
+2018-05-27 11:08:58 - info: Successfully connected to the database

@@ -1,0 +1,45 @@
+2018-05-10 10:21:10 - info: Server is listening on port 3000
+2018-05-10 10:21:10 - info: Successfully connected to the database
+2018-05-10 10:25:01 - info: Server is listening on port 3000
+2018-05-10 10:25:01 - info: Successfully connected to the database
+2018-05-10 10:27:35 - error: Error at function: Dictionary.transalte-> _translate.save() BulkWriteError: E11000 duplicate key error collection: dictionary.translates index: keyword_1 dup key: { : "ADSS Optical cable" }
+    at D:\current work\pdt - vtt\Tu dien Tieng Anh chuyen nganh\vt dictionary\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongodb\lib\bulk\unordered.js:535:15
+    at handleCallback (D:\current work\pdt - vtt\Tu dien Tieng Anh chuyen nganh\vt dictionary\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongodb\lib\utils.js:128:55)
+    at resultHandler (D:\current work\pdt - vtt\Tu dien Tieng Anh chuyen nganh\vt dictionary\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongodb\lib\bulk\unordered.js:456:5)
+    at D:\current work\pdt - vtt\Tu dien Tieng Anh chuyen nganh\vt dictionary\VTDictionaryAPI\VTDictionaryAPI\node_modules\mongodb-core\lib\connection\pool.js:541:18
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+2018-05-10 10:31:00 - info: Server is listening on port 3000
+2018-05-10 10:31:00 - info: Successfully connected to the database
+2018-05-10 10:57:44 - info: Server is listening on port 3000
+2018-05-10 10:57:44 - info: Successfully connected to the database
+2018-05-10 11:00:57 - info: Server is listening on port 3000
+2018-05-10 11:00:57 - info: Successfully connected to the database
+2018-05-10 11:02:31 - info: Server is listening on port 3000
+2018-05-10 11:02:31 - info: Successfully connected to the database
+2018-05-10 11:09:41 - info: Server is listening on port 3000
+2018-05-10 11:09:41 - info: Successfully connected to the database
+2018-05-10 11:10:46 - info: Server is listening on port 3000
+2018-05-10 11:10:46 - info: Successfully connected to the database
+2018-05-10 11:21:05 - info: Server is listening on port 3000
+2018-05-10 11:21:05 - info: Successfully connected to the database
+2018-05-10 11:23:07 - info: Server is listening on port 3000
+2018-05-10 11:23:07 - info: Successfully connected to the database
+2018-05-10 11:24:32 - info: Server is listening on port 3000
+2018-05-10 11:24:32 - info: Successfully connected to the database
+2018-05-10 11:24:47 - info: Server is listening on port 3000
+2018-05-10 11:24:47 - info: Successfully connected to the database
+2018-05-10 11:27:14 - info: Server is listening on port 3000
+2018-05-10 11:27:14 - info: Successfully connected to the database
+2018-05-10 11:29:42 - info: Server is listening on port 3000
+2018-05-10 11:29:42 - info: Successfully connected to the database
+2018-05-10 11:38:13 - info: Server is listening on port 3000
+2018-05-10 11:38:13 - info: Successfully connected to the database
+2018-05-10 11:41:25 - info: Server is listening on port 3000
+2018-05-10 11:41:25 - info: Successfully connected to the database
+2018-05-10 11:43:27 - info: Server is listening on port 3000
+2018-05-10 11:43:27 - info: Successfully connected to the database
+2018-05-10 11:45:02 - info: Server is listening on port 3000
+2018-05-10 11:45:02 - info: Successfully connected to the database
+2018-05-10 11:46:16 - info: Server is listening on port 3000
+2018-05-10 11:46:16 - info: Successfully connected to the database

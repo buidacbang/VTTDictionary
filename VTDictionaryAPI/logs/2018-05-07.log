@@ -1,0 +1,439 @@
+2018-05-07 08:36:53 - info: Server is listening on port 3000
+2018-05-07 08:36:53 - info: Successfully connected to the database
+2018-05-07 08:38:41 - info: Server is listening on port 3000
+2018-05-07 08:38:41 - info: Successfully connected to the database
+2018-05-07 08:41:00 - error: Can not get keyword's audio FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 08:41:00 - error: Error at function: DictionaryController.create->getKeywordAudio FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 08:48:46 - info: Server is listening on port 3000
+2018-05-07 08:48:46 - info: Successfully connected to the database
+2018-05-07 08:48:59 - error: Error at function: DictionaryController.create->getKeywordAudio FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 08:50:41 - info: Server is listening on port 3000
+2018-05-07 08:50:41 - info: Successfully connected to the database
+2018-05-07 08:51:16 - info: Server is listening on port 3000
+2018-05-07 08:51:16 - info: Successfully connected to the database
+2018-05-07 08:57:04 - info: Server is listening on port 3000
+2018-05-07 08:57:04 - info: Successfully connected to the database
+2018-05-07 09:45:27 - info: Server is listening on port 3000
+2018-05-07 09:45:27 - info: Successfully connected to the database
+2018-05-07 09:47:23 - info: Server is listening on port 3000
+2018-05-07 09:47:23 - info: Successfully connected to the database
+2018-05-07 09:48:48 - info: Server is listening on port 3000
+2018-05-07 09:48:48 - info: Successfully connected to the database
+2018-05-07 09:51:01 - info: Server is listening on port 3000
+2018-05-07 09:51:01 - info: Successfully connected to the database
+2018-05-07 11:39:17 - info: Server is listening on port 3000
+2018-05-07 11:39:17 - info: Successfully connected to the database
+2018-05-07 11:46:22 - info: Server is listening on port 3000
+2018-05-07 11:46:22 - info: Successfully connected to the database
+2018-05-07 02:53:57 - info: Server is listening on port 3000
+2018-05-07 02:53:57 - info: Successfully connected to the database
+2018-05-07 02:54:47 - info: Server is listening on port 3000
+2018-05-07 02:54:47 - info: Successfully connected to the database
+2018-05-07 02:55:54 - info: Server is listening on port 3000
+2018-05-07 02:55:54 - info: Successfully connected to the database
+2018-05-07 02:56:46 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->getDescriptionAudio TypeError: Cannot read property 'length' of undefined
+    at Promise (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\app\controllers\dictionary.controller.js:52:37)
+    at new Promise (<anonymous>)
+    at getDescriptionAudio (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\app\controllers\dictionary.controller.js:48:12)
+    at getKeywordAudio.then.kurl (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\app\controllers\dictionary.controller.js:156:21)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+2018-05-07 02:56:49 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->checkExistAndPrepareTransaction(Insert) TypeError: Cannot read property 'length' of undefined
+    at Promise (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\app\controllers\dictionary.controller.js:52:37)
+    at new Promise (<anonymous>)
+    at getDescriptionAudio (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\app\controllers\dictionary.controller.js:48:12)
+    at getKeywordAudio.then.kurl (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\app\controllers\dictionary.controller.js:156:21)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+2018-05-07 03:00:39 - info: Server is listening on port 3000
+2018-05-07 03:00:39 - info: Successfully connected to the database
+2018-05-07 03:01:16 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->getDescriptionAudio TypeError: Cannot read property 'length' of undefined
+    at Promise (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\app\controllers\dictionary.controller.js:52:37)
+    at new Promise (<anonymous>)
+    at getDescriptionAudio (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\app\controllers\dictionary.controller.js:48:12)
+    at getKeywordAudio.then.kurl (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\app\controllers\dictionary.controller.js:156:21)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+2018-05-07 03:01:16 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->checkExistAndPrepareTransaction(Insert) TypeError: Cannot read property 'length' of undefined
+    at Promise (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\app\controllers\dictionary.controller.js:52:37)
+    at new Promise (<anonymous>)
+    at getDescriptionAudio (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\app\controllers\dictionary.controller.js:48:12)
+    at getKeywordAudio.then.kurl (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\app\controllers\dictionary.controller.js:156:21)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+2018-05-07 03:03:51 - info: Server is listening on port 3000
+2018-05-07 03:03:51 - info: Successfully connected to the database
+2018-05-07 03:06:15 - info: Server is listening on port 3000
+2018-05-07 03:06:15 - info: Successfully connected to the database
+2018-05-07 03:06:42 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->getKeywordAudio FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 03:06:42 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->checkExistAndPrepareTransaction(Insert) FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 03:08:15 - info: Server is listening on port 3000
+2018-05-07 03:08:15 - info: Successfully connected to the database
+2018-05-07 03:08:53 - info: Server is listening on port 3000
+2018-05-07 03:08:53 - info: Successfully connected to the database
+2018-05-07 03:10:47 - info: Server is listening on port 3000
+2018-05-07 03:10:47 - info: Successfully connected to the database
+2018-05-07 03:11:01 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->getKeywordAudio FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 03:11:01 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->checkExistAndPrepareTransaction(Insert) FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 03:11:13 - info: Server is listening on port 3000
+2018-05-07 03:11:13 - info: Successfully connected to the database
+2018-05-07 03:16:33 - info: Server is listening on port 3000
+2018-05-07 03:16:33 - info: Successfully connected to the database
+2018-05-07 03:18:49 - info: Server is listening on port 3000
+2018-05-07 03:18:49 - info: Successfully connected to the database
+2018-05-07 03:20:48 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->getKeywordAudio FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 03:21:52 - info: Server is listening on port 3000
+2018-05-07 03:21:52 - info: Successfully connected to the database
+2018-05-07 03:23:06 - info: Server is listening on port 3000
+2018-05-07 03:23:06 - info: Successfully connected to the database
+2018-05-07 03:23:19 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->getKeywordAudio FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 03:23:19 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->checkExistAndPrepareTransaction(Insert) FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 03:27:55 - info: Server is listening on port 3000
+2018-05-07 03:27:55 - info: Successfully connected to the database
+2018-05-07 03:28:07 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->getKeywordAudio FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 03:28:07 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->checkExistAndPrepareTransaction(Insert) FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 03:28:07 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->onTransactionError FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 03:30:09 - info: Server is listening on port 3000
+2018-05-07 03:30:09 - info: Successfully connected to the database
+2018-05-07 03:30:25 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->getKeywordAudio FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 03:30:25 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->checkExistAndPrepareTransaction(Insert) FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 03:30:25 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->onTransactionError FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 03:38:13 - info: Server is listening on port 3000
+2018-05-07 03:38:13 - info: Successfully connected to the database
+2018-05-07 03:38:27 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->getKeywordAudio FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 03:38:27 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->checkExistAndPrepareTransaction(Update) FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 03:38:27 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->onTransactionError FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 03:39:41 - info: Server is listening on port 3000
+2018-05-07 03:39:42 - info: Successfully connected to the database
+2018-05-07 03:40:58 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->getKeywordAudio FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 03:40:58 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->checkExistAndPrepareTransaction(Insert) FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 03:40:58 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->onTransactionError FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 03:41:56 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->getKeywordAudio FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 03:41:56 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->checkExistAndPrepareTransaction(Update) FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 03:41:56 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->onTransactionError FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 03:45:13 - info: Server is listening on port 3000
+2018-05-07 03:45:13 - info: Successfully connected to the database
+2018-05-07 03:45:26 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->getKeywordAudio FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 03:45:26 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->checkExistAndPrepareTransaction(Update) FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 03:45:26 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->onTransactionError FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 03:49:21 - info: Server is listening on port 3000
+2018-05-07 03:49:21 - info: Successfully connected to the database
+2018-05-07 03:50:14 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->getKeywordAudio FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 03:50:14 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->checkExistAndPrepareTransaction(Update) FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 03:50:14 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->onTransactionError FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 03:56:52 - info: Server is listening on port 3000
+2018-05-07 03:56:52 - info: Successfully connected to the database
+2018-05-07 04:02:23 - info: Server is listening on port 3000
+2018-05-07 04:02:23 - info: Successfully connected to the database
+2018-05-07 04:02:37 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->getKeywordAudio FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 04:02:37 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->checkExistAndPrepareTransaction(Update) FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 04:02:37 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->onTransactionError FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 04:05:15 - info: Server is listening on port 3000
+2018-05-07 04:05:15 - info: Successfully connected to the database
+2018-05-07 04:08:39 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->getKeywordAudio FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 04:08:39 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->checkExistAndPrepareTransaction(Insert) FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 04:08:39 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->onTransactionError FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 04:11:02 - info: Server is listening on port 3000
+2018-05-07 04:11:02 - info: Successfully connected to the database
+2018-05-07 04:11:18 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->getKeywordAudio FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 04:11:18 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->checkExistAndPrepareTransaction(Insert) FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 04:11:18 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->onTransactionError FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 04:16:21 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->getKeywordAudio FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 04:16:21 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->checkExistAndPrepareTransaction(Insert) FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 04:16:21 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->onTransactionError FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 04:17:31 - error: Error at function: DictionaryController.findAll->findByCategory
+2018-05-07 04:26:37 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->getKeywordAudio FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 04:26:37 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->checkExistAndPrepareTransaction(Insert) FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 04:26:37 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->onTransactionError FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 04:30:25 - info: Server is listening on port 3000
+2018-05-07 04:30:25 - info: Successfully connected to the database
+2018-05-07 04:30:54 - info: Server is listening on port 3000
+2018-05-07 04:30:54 - info: Successfully connected to the database
+2018-05-07 04:31:37 - info: Server is listening on port 3000
+2018-05-07 04:31:37 - info: Successfully connected to the database
+2018-05-07 04:33:19 - info: Server is listening on port 3000
+2018-05-07 04:33:19 - info: Successfully connected to the database
+2018-05-07 05:32:53 - info: Server is listening on port 3000
+2018-05-07 05:32:53 - info: Successfully connected to the database
+2018-05-07 05:33:40 - info: Server is listening on port 3000
+2018-05-07 05:33:40 - info: Successfully connected to the database
+2018-05-07 05:34:37 - info: Server is listening on port 3000
+2018-05-07 05:34:37 - info: Successfully connected to the database
+2018-05-07 05:37:53 - info: Server is listening on port 3000
+2018-05-07 05:37:53 - info: Successfully connected to the database
+2018-05-07 05:44:39 - info: Server is listening on port 3000
+2018-05-07 05:44:40 - info: Successfully connected to the database
+2018-05-07 05:44:51 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->getKeywordAudio FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 05:44:51 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->checkExistAndPrepareTransaction(Insert) FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 05:44:51 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->onTransactionError FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 05:46:16 - info: Server is listening on port 3000
+2018-05-07 05:46:16 - info: Successfully connected to the database
+2018-05-07 05:47:58 - info: Server is listening on port 3000
+2018-05-07 05:47:58 - info: Successfully connected to the database
+2018-05-07 05:52:17 - info: Server is listening on port 3000
+2018-05-07 05:52:18 - info: Successfully connected to the database
+2018-05-07 05:52:31 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->getKeywordAudio FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 05:52:31 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->checkExistAndPrepareTransaction(Insert) FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 05:52:31 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->onTransactionError FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 05:53:51 - info: Server is listening on port 3000
+2018-05-07 05:53:51 - info: Successfully connected to the database
+2018-05-07 05:54:04 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->getKeywordAudio FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 05:54:04 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->checkExistAndPrepareTransaction(Insert) FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 05:54:04 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->onTransactionError FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 05:56:42 - info: Server is listening on port 3000
+2018-05-07 05:56:42 - info: Successfully connected to the database
+2018-05-07 05:57:00 - info: Server is listening on port 3000
+2018-05-07 05:57:00 - info: Successfully connected to the database
+2018-05-07 05:58:49 - info: Server is listening on port 3000
+2018-05-07 05:58:50 - info: Successfully connected to the database
+2018-05-07 05:59:06 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->getKeywordAudio FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 05:59:06 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->checkExistAndPrepareTransaction(Insert) FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 05:59:06 - error: Error at function: DictionaryController.bulkCreateOrUpdateDictionary->onTransactionError FetchError: network timeout at: https://translate.google.com
+    at Timeout._onTimeout (D:\BangBD\Projects\Projects\VTDictionaryAPI\VTDictionaryAPI\node_modules\node-fetch\index.js:126:13)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+2018-05-07 06:03:20 - info: Server is listening on port 3000
+2018-05-07 06:03:20 - info: Successfully connected to the database
+2018-05-07 06:04:37 - info: Server is listening on port 3000
+2018-05-07 06:04:37 - info: Successfully connected to the database
+2018-05-07 06:06:09 - info: Server is listening on port 3000
+2018-05-07 06:06:09 - info: Successfully connected to the database
+2018-05-07 06:07:16 - info: Server is listening on port 3000
+2018-05-07 06:07:16 - info: Successfully connected to the database
+2018-05-07 06:09:13 - info: Server is listening on port 3000
+2018-05-07 06:09:13 - info: Successfully connected to the database
+2018-05-07 06:10:20 - info: Server is listening on port 3000
+2018-05-07 06:10:20 - info: Successfully connected to the database
+2018-05-07 11:00:27 - info: Server is listening on port 3000
+2018-05-07 11:00:28 - info: Successfully connected to the database
+2018-05-07 11:04:17 - info: Server is listening on port 3000
+2018-05-07 11:04:17 - info: Successfully connected to the database
