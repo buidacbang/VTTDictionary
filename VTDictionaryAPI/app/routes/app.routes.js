@@ -87,7 +87,7 @@ module.exports = (app) => {
     app.post('/dictionaries', dictionaries.create);
 
     // Bulk create of update Dictionary
-    app.post('/dictionaries/bulk-create-or-update', dictionaries.bulkCreateOrUpdateDictionary);
+    //app.post('/dictionaries/bulk-create-or-update', dictionaries.bulkCreateOrUpdateDictionary);
     app.post('/dictionaries/bulk-insert-or-update', dictionaries.bulkInsertOrUpdate);
 
     // Retrieve all dictionaries

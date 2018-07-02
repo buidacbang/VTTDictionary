@@ -1,14 +1,26 @@
-﻿{
-  "key": "ios_app_version",
-  "value": {
-    "os": "ios",
-    "force_clear_cache": "0",
-    "update": {
+﻿[
+  {
+    "key": "ios_app_version",
+    "value": {
+      "os": "ios",
+      "force_clear_cache": "0",
+      "update": {
+        "version": "1.0",
+        "update_url": "https://study.storebox.vn/index.php/s/f7Y1vLtgzNKUf5m/download",
+        "is_forced_update": "1",
+        "remind_day": "1",
+        "uuids": [ "6&16EAD8DD&0&0000" ]
+      }
+    }
+  },
+  {
+    "key": "android_app_version",
+    "value": {
+      "os": "android",
       "version": "1.0",
-      "update_url": "https://study.storebox.vn/index.php/s/f7Y1vLtgzNKUf5m/download",
+      "update_url": "https://study.storebox.vn/index.php/s/Y8Hjacujj6KuyMQ/download",
       "is_forced_update": "1",
-      "remind_day": "1",
-      "uuids": [ "6&16EAD8DD&0&0000"]
+      "uuids": []
     }
   }
-}
+]

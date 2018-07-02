@@ -257,5 +257,185 @@
         "text": "Masharti Ya jumla"
       }
     ]
+  },
+  {
+    "tree": [
+      "5ae181bf720fb61e1d868a6e"
+    ],
+    "order": 2,
+    "status": 1,
+    "totalGlossary": 0,
+    "totalCourse": 0,
+    "resources": [
+      {
+        "_id": "en",
+        "text": "Mechanical & Electrical"
+      },
+      {
+        "_id": "vi",
+        "text": "Cơ điện"
+      },
+      {
+        "_id": "fr",
+        "text": "Mécanique et électrique"
+      },
+      {
+        "_id": "es",
+        "text": "Mecánico eléctrico"
+      },
+      {
+        "_id": "pt",
+        "text": "Mecânica e Elétrica"
+      },
+      {
+        "_id": "lo",
+        "text": "Mechanical & Electrical"
+      },
+      {
+        "_id": "km",
+        "text": "មេកានិកនិងអគ្គីសនី"
+      },
+      {
+        "_id": "sw",
+        "text": "Mitambo & Umeme"
+      }
+    ],
+    "name": "Mechanical & Electrical",
+    "parent": "5ae181bf720fb61e1d868a6e"
+  },
+  {
+    "tree": [
+      "5ae181bf720fb61e1d868a6e"
+    ],
+    "order": 3,
+    "status": 1,
+    "totalGlossary": 0,
+    "totalCourse": 0,
+    "resources": [
+      {
+        "_id": "en",
+        "text": "Radio Access Network"
+      },
+      {
+        "_id": "vi",
+        "text": "Vô tuyến"
+      },
+      {
+        "_id": "fr",
+        "text": "Réseau d'accès radio"
+      },
+      {
+        "_id": "es",
+        "text": "Red de acceso de radio"
+      },
+      {
+        "_id": "pt",
+        "text": "Rede de acesso por rádio"
+      },
+      {
+        "_id": "lo",
+        "text": "Radio Access Network"
+      },
+      {
+        "_id": "km",
+        "text": "បណ្តាញវិទ្យុចូលប្រើ"
+      },
+      {
+        "_id": "sw",
+        "text": "Mtandao wa Upatikanaji wa Rafiki"
+      }
+    ],
+    "name": "Radio Access Network",
+    "parent": "5ae181bf720fb61e1d868a6e"
+  },
+  {
+    "tree": [
+      "5ae181bf720fb61e1d868a6e"
+    ],
+    "order": 4,
+    "status": 1,
+    "totalGlossary": 0,
+    "totalCourse": 0,
+    "resources": [
+      {
+        "_id": "en",
+        "text": "Fixed Broadband"
+      },
+      {
+        "_id": "vi",
+        "text": "Cố định băng rộng"
+      },
+      {
+        "_id": "fr",
+        "text": "Haut débit fixe"
+      },
+      {
+        "_id": "es",
+        "text": "Banda ancha fija"
+      },
+      {
+        "_id": "pt",
+        "text": "Banda larga fixa"
+      },
+      {
+        "_id": "lo",
+        "text": "Broadband ຄົງທີ່"
+      },
+      {
+        "_id": "km",
+        "text": "រលកថេរ"
+      },
+      {
+        "_id": "sw",
+        "text": "broadband fasta"
+      }
+    ],
+    "name": "Fixed Broadband",
+    "parent": "5ae181bf720fb61e1d868a6e"
+  },
+  {
+    "tree": [
+      "5ae181bf720fb61e1d868a6e"
+    ],
+    "order": 5,
+    "status": 1,
+    "totalGlossary": 0,
+    "totalCourse": 0,
+    "resources": [
+      {
+        "_id": "en",
+        "text": "Core Network"
+      },
+      {
+        "_id": "vi",
+        "text": "Mạng lõi"
+      },
+      {
+        "_id": "fr",
+        "text": "Réseau principal"
+      },
+      {
+        "_id": "es",
+        "text": "Red de núcleo"
+      },
+      {
+        "_id": "pt",
+        "text": "Rede Principal"
+      },
+      {
+        "_id": "lo",
+        "text": "Core Network"
+      },
+      {
+        "_id": "km",
+        "text": "បណ្តាញស្នូល"
+      },
+      {
+        "_id": "sw",
+        "text": "Mtandao wa msingi"
+      }
+    ],
+    "name": "Core Network",
+    "parent": "5ae181bf720fb61e1d868a6e"
   }
 ]

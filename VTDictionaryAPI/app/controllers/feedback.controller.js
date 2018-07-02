@@ -10,7 +10,7 @@ const logger = require('../common/logger.common.js');
 /* CREATE & SAVE FEEDBACK
 /* --------------------------------------------------------------------- */
 exports.create = (req, res) => {
-    // Validate email first    
+    // Validate email first   
 
     // Create FeedBack obj
     const feedback = new FeedBack({ email: req.query.email, name: req.query.name, phonenumber: req.query.phone, content: req.query.content });
